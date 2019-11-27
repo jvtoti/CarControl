@@ -1,0 +1,255 @@
+C:\Users\Rodrigo Ferreira\source\repos\CarControl\CarControl\bin\CarControl.dll.config
+C:\Users\Rodrigo Ferreira\source\repos\CarControl\CarControl\bin\CarControl.dll
+C:\Users\Rodrigo Ferreira\source\repos\CarControl\CarControl\bin\CarControl.pdb
+C:\Users\Rodrigo Ferreira\source\repos\CarControl\CarControl\bin\roslyn\csc.exe
+C:\Users\Rodrigo Ferreira\source\repos\CarControl\CarControl\bin\roslyn\csc.exe.config
+C:\Users\Rodrigo Ferreira\source\repos\CarControl\CarControl\bin\roslyn\csc.rsp
+C:\Users\Rodrigo Ferreira\source\repos\CarControl\CarControl\bin\roslyn\csi.exe
+C:\Users\Rodrigo Ferreira\source\repos\CarControl\CarControl\bin\roslyn\csi.exe.config
+C:\Users\Rodrigo Ferreira\source\repos\CarControl\CarControl\bin\roslyn\csi.rsp
+C:\Users\Rodrigo Ferreira\source\repos\CarControl\CarControl\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Rodrigo Ferreira\source\repos\CarControl\CarControl\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Rodrigo Ferreira\source\repos\CarControl\CarControl\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Rodrigo Ferreira\source\repos\CarControl\CarControl\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Rodrigo Ferreira\source\repos\CarControl\CarControl\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Rodrigo Ferreira\source\repos\CarControl\CarControl\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Rodrigo Ferreira\source\repos\CarControl\CarControl\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Rodrigo Ferreira\source\repos\CarControl\CarControl\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Rodrigo Ferreira\source\repos\CarControl\CarControl\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Rodrigo Ferreira\source\repos\CarControl\CarControl\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\Rodrigo Ferreira\source\repos\CarControl\CarControl\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Rodrigo Ferreira\source\repos\CarControl\CarControl\bin\roslyn\System.AppContext.dll
+C:\Users\Rodrigo Ferreira\source\repos\CarControl\CarControl\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Rodrigo Ferreira\source\repos\CarControl\CarControl\bin\roslyn\System.Console.dll
+C:\Users\Rodrigo Ferreira\source\repos\CarControl\CarControl\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Rodrigo Ferreira\source\repos\CarControl\CarControl\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Rodrigo Ferreira\source\repos\CarControl\CarControl\bin\roslyn\System.IO.Compression.dll
+C:\Users\Rodrigo Ferreira\source\repos\CarControl\CarControl\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Rodrigo Ferreira\source\repos\CarControl\CarControl\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Rodrigo Ferreira\source\repos\CarControl\CarControl\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\Rodrigo Ferreira\source\repos\CarControl\CarControl\bin\roslyn\System.IO.Pipes.dll
+C:\Users\Rodrigo Ferreira\source\repos\CarControl\CarControl\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Rodrigo Ferreira\source\repos\CarControl\CarControl\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\Rodrigo Ferreira\source\repos\CarControl\CarControl\bin\roslyn\System.Security.Claims.dll
+C:\Users\Rodrigo Ferreira\source\repos\CarControl\CarControl\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Rodrigo Ferreira\source\repos\CarControl\CarControl\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Rodrigo Ferreira\source\repos\CarControl\CarControl\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Rodrigo Ferreira\source\repos\CarControl\CarControl\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Rodrigo Ferreira\source\repos\CarControl\CarControl\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\Rodrigo Ferreira\source\repos\CarControl\CarControl\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Rodrigo Ferreira\source\repos\CarControl\CarControl\bin\roslyn\System.ValueTuple.dll
+C:\Users\Rodrigo Ferreira\source\repos\CarControl\CarControl\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Rodrigo Ferreira\source\repos\CarControl\CarControl\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Rodrigo Ferreira\source\repos\CarControl\CarControl\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Rodrigo Ferreira\source\repos\CarControl\CarControl\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Rodrigo Ferreira\source\repos\CarControl\CarControl\bin\roslyn\vbc.exe
+C:\Users\Rodrigo Ferreira\source\repos\CarControl\CarControl\bin\roslyn\vbc.exe.config
+C:\Users\Rodrigo Ferreira\source\repos\CarControl\CarControl\bin\roslyn\vbc.rsp
+C:\Users\Rodrigo Ferreira\source\repos\CarControl\CarControl\bin\roslyn\VBCSCompiler.exe
+C:\Users\Rodrigo Ferreira\source\repos\CarControl\CarControl\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Rodrigo Ferreira\source\repos\CarControl\CarControl\bin\Antlr3.Runtime.dll
+C:\Users\Rodrigo Ferreira\source\repos\CarControl\CarControl\bin\EntityFramework.dll
+C:\Users\Rodrigo Ferreira\source\repos\CarControl\CarControl\bin\EntityFramework.SqlServer.dll
+C:\Users\Rodrigo Ferreira\source\repos\CarControl\CarControl\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\Rodrigo Ferreira\source\repos\CarControl\CarControl\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\Rodrigo Ferreira\source\repos\CarControl\CarControl\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\Rodrigo Ferreira\source\repos\CarControl\CarControl\bin\Microsoft.AspNet.TelemetryCorrelation.dll
+C:\Users\Rodrigo Ferreira\source\repos\CarControl\CarControl\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Rodrigo Ferreira\source\repos\CarControl\CarControl\bin\Microsoft.Owin.dll
+C:\Users\Rodrigo Ferreira\source\repos\CarControl\CarControl\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\Rodrigo Ferreira\source\repos\CarControl\CarControl\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\Rodrigo Ferreira\source\repos\CarControl\CarControl\bin\Microsoft.Owin.Security.dll
+C:\Users\Rodrigo Ferreira\source\repos\CarControl\CarControl\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\Rodrigo Ferreira\source\repos\CarControl\CarControl\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\Rodrigo Ferreira\source\repos\CarControl\CarControl\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\Rodrigo Ferreira\source\repos\CarControl\CarControl\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\Rodrigo Ferreira\source\repos\CarControl\CarControl\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\Rodrigo Ferreira\source\repos\CarControl\CarControl\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Rodrigo Ferreira\source\repos\CarControl\CarControl\bin\Newtonsoft.Json.dll
+C:\Users\Rodrigo Ferreira\source\repos\CarControl\CarControl\bin\Owin.dll
+C:\Users\Rodrigo Ferreira\source\repos\CarControl\CarControl\bin\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Rodrigo Ferreira\source\repos\CarControl\CarControl\bin\System.Net.Http.Formatting.dll
+C:\Users\Rodrigo Ferreira\source\repos\CarControl\CarControl\bin\System.Web.Helpers.dll
+C:\Users\Rodrigo Ferreira\source\repos\CarControl\CarControl\bin\System.Web.Http.dll
+C:\Users\Rodrigo Ferreira\source\repos\CarControl\CarControl\bin\System.Web.Http.WebHost.dll
+C:\Users\Rodrigo Ferreira\source\repos\CarControl\CarControl\bin\System.Web.Mvc.dll
+C:\Users\Rodrigo Ferreira\source\repos\CarControl\CarControl\bin\System.Web.Optimization.dll
+C:\Users\Rodrigo Ferreira\source\repos\CarControl\CarControl\bin\System.Web.Razor.dll
+C:\Users\Rodrigo Ferreira\source\repos\CarControl\CarControl\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Rodrigo Ferreira\source\repos\CarControl\CarControl\bin\System.Web.WebPages.dll
+C:\Users\Rodrigo Ferreira\source\repos\CarControl\CarControl\bin\System.Web.WebPages.Razor.dll
+C:\Users\Rodrigo Ferreira\source\repos\CarControl\CarControl\bin\WebGrease.dll
+C:\Users\Rodrigo Ferreira\source\repos\CarControl\CarControl\bin\System.Web.Helpers.xml
+C:\Users\Rodrigo Ferreira\source\repos\CarControl\CarControl\bin\System.Web.Mvc.xml
+C:\Users\Rodrigo Ferreira\source\repos\CarControl\CarControl\bin\System.Web.Optimization.xml
+C:\Users\Rodrigo Ferreira\source\repos\CarControl\CarControl\bin\System.Web.Razor.xml
+C:\Users\Rodrigo Ferreira\source\repos\CarControl\CarControl\bin\System.Web.WebPages.xml
+C:\Users\Rodrigo Ferreira\source\repos\CarControl\CarControl\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Rodrigo Ferreira\source\repos\CarControl\CarControl\bin\System.Web.WebPages.Razor.xml
+C:\Users\Rodrigo Ferreira\source\repos\CarControl\CarControl\bin\Newtonsoft.Json.xml
+C:\Users\Rodrigo Ferreira\source\repos\CarControl\CarControl\bin\Antlr3.Runtime.pdb
+C:\Users\Rodrigo Ferreira\source\repos\CarControl\CarControl\bin\System.Net.Http.Formatting.xml
+C:\Users\Rodrigo Ferreira\source\repos\CarControl\CarControl\bin\System.Web.Http.xml
+C:\Users\Rodrigo Ferreira\source\repos\CarControl\CarControl\bin\System.Web.Http.WebHost.xml
+C:\Users\Rodrigo Ferreira\source\repos\CarControl\CarControl\bin\EntityFramework.xml
+C:\Users\Rodrigo Ferreira\source\repos\CarControl\CarControl\bin\EntityFramework.SqlServer.xml
+C:\Users\Rodrigo Ferreira\source\repos\CarControl\CarControl\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\Rodrigo Ferreira\source\repos\CarControl\CarControl\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\Rodrigo Ferreira\source\repos\CarControl\CarControl\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\Rodrigo Ferreira\source\repos\CarControl\CarControl\bin\Microsoft.Owin.xml
+C:\Users\Rodrigo Ferreira\source\repos\CarControl\CarControl\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\Rodrigo Ferreira\source\repos\CarControl\CarControl\bin\Microsoft.Owin.Security.xml
+C:\Users\Rodrigo Ferreira\source\repos\CarControl\CarControl\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\Rodrigo Ferreira\source\repos\CarControl\CarControl\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\Rodrigo Ferreira\source\repos\CarControl\CarControl\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\Rodrigo Ferreira\source\repos\CarControl\CarControl\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\Rodrigo Ferreira\source\repos\CarControl\CarControl\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\Rodrigo Ferreira\source\repos\CarControl\CarControl\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\Rodrigo Ferreira\source\repos\CarControl\CarControl\bin\System.Diagnostics.DiagnosticSource.xml
+C:\Users\Rodrigo Ferreira\source\repos\CarControl\CarControl\bin\Microsoft.AspNet.TelemetryCorrelation.xml
+C:\Users\Rodrigo Ferreira\source\repos\CarControl\CarControl\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Rodrigo Ferreira\source\repos\CarControl\CarControl\bin\pt-br\System.Web.Helpers.resources.dll
+C:\Users\Rodrigo Ferreira\source\repos\CarControl\CarControl\bin\pt-br\System.Web.Mvc.resources.dll
+C:\Users\Rodrigo Ferreira\source\repos\CarControl\CarControl\bin\pt-br\System.Web.Optimization.resources.dll
+C:\Users\Rodrigo Ferreira\source\repos\CarControl\CarControl\bin\pt-br\System.Web.Razor.resources.dll
+C:\Users\Rodrigo Ferreira\source\repos\CarControl\CarControl\bin\pt-br\System.Web.WebPages.resources.dll
+C:\Users\Rodrigo Ferreira\source\repos\CarControl\CarControl\bin\pt-br\System.Web.WebPages.Deployment.resources.dll
+C:\Users\Rodrigo Ferreira\source\repos\CarControl\CarControl\bin\pt-br\System.Web.WebPages.Razor.resources.dll
+C:\Users\Rodrigo Ferreira\source\repos\CarControl\CarControl\bin\pt-br\System.Net.Http.Formatting.resources.dll
+C:\Users\Rodrigo Ferreira\source\repos\CarControl\CarControl\bin\pt-br\System.Web.Http.resources.dll
+C:\Users\Rodrigo Ferreira\source\repos\CarControl\CarControl\bin\pt-br\System.Web.Http.WebHost.resources.dll
+C:\Users\Rodrigo Ferreira\source\repos\CarControl\CarControl\bin\pt-br\Microsoft.AspNet.Identity.Core.resources.dll
+C:\Users\Rodrigo Ferreira\source\repos\CarControl\CarControl\bin\pt-br\Microsoft.AspNet.Identity.Owin.resources.dll
+C:\Users\Rodrigo Ferreira\source\repos\CarControl\CarControl\bin\pt-br\Microsoft.AspNet.Identity.EntityFramework.resources.dll
+C:\Users\Rodrigo Ferreira\source\repos\CarControl\CarControl\obj\Debug\CarControl.csproj.CoreCompileInputs.cache
+C:\Users\Rodrigo Ferreira\source\repos\CarControl\CarControl\obj\Debug\CarControl.csproj.CopyComplete
+C:\Users\Rodrigo Ferreira\source\repos\CarControl\CarControl\obj\Debug\CarControl.dll
+C:\Users\Rodrigo Ferreira\source\repos\CarControl\CarControl\obj\Debug\CarControl.pdb
+C:\Users\Rodrigo Ferreira\source\repos\CarControl\CarControl\obj\Debug\CarControl.csprojAssemblyReference.cache
+E:\CarControl\CarControl\bin\CarControl.dll.config
+E:\CarControl\CarControl\bin\CarControl.dll
+E:\CarControl\CarControl\bin\CarControl.pdb
+E:\CarControl\CarControl\bin\roslyn\csc.exe
+E:\CarControl\CarControl\bin\roslyn\csc.exe.config
+E:\CarControl\CarControl\bin\roslyn\csc.rsp
+E:\CarControl\CarControl\bin\roslyn\csi.exe
+E:\CarControl\CarControl\bin\roslyn\csi.exe.config
+E:\CarControl\CarControl\bin\roslyn\csi.rsp
+E:\CarControl\CarControl\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+E:\CarControl\CarControl\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+E:\CarControl\CarControl\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+E:\CarControl\CarControl\bin\roslyn\Microsoft.CodeAnalysis.dll
+E:\CarControl\CarControl\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+E:\CarControl\CarControl\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+E:\CarControl\CarControl\bin\roslyn\Microsoft.CSharp.Core.targets
+E:\CarControl\CarControl\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+E:\CarControl\CarControl\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+E:\CarControl\CarControl\bin\roslyn\Microsoft.Managed.Core.targets
+E:\CarControl\CarControl\bin\roslyn\Microsoft.VisualBasic.Core.targets
+E:\CarControl\CarControl\bin\roslyn\System.AppContext.dll
+E:\CarControl\CarControl\bin\roslyn\System.Collections.Immutable.dll
+E:\CarControl\CarControl\bin\roslyn\System.Console.dll
+E:\CarControl\CarControl\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+E:\CarControl\CarControl\bin\roslyn\System.Diagnostics.StackTrace.dll
+E:\CarControl\CarControl\bin\roslyn\System.IO.Compression.dll
+E:\CarControl\CarControl\bin\roslyn\System.IO.FileSystem.dll
+E:\CarControl\CarControl\bin\roslyn\System.IO.FileSystem.Primitives.dll
+E:\CarControl\CarControl\bin\roslyn\System.IO.Pipes.AccessControl.dll
+E:\CarControl\CarControl\bin\roslyn\System.IO.Pipes.dll
+E:\CarControl\CarControl\bin\roslyn\System.Reflection.Metadata.dll
+E:\CarControl\CarControl\bin\roslyn\System.Security.AccessControl.dll
+E:\CarControl\CarControl\bin\roslyn\System.Security.Claims.dll
+E:\CarControl\CarControl\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+E:\CarControl\CarControl\bin\roslyn\System.Security.Cryptography.Encoding.dll
+E:\CarControl\CarControl\bin\roslyn\System.Security.Cryptography.Primitives.dll
+E:\CarControl\CarControl\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+E:\CarControl\CarControl\bin\roslyn\System.Security.Principal.Windows.dll
+E:\CarControl\CarControl\bin\roslyn\System.Text.Encoding.CodePages.dll
+E:\CarControl\CarControl\bin\roslyn\System.ValueTuple.dll
+E:\CarControl\CarControl\bin\roslyn\System.Xml.ReaderWriter.dll
+E:\CarControl\CarControl\bin\roslyn\System.Xml.XmlDocument.dll
+E:\CarControl\CarControl\bin\roslyn\System.Xml.XPath.dll
+E:\CarControl\CarControl\bin\roslyn\System.Xml.XPath.XDocument.dll
+E:\CarControl\CarControl\bin\roslyn\vbc.exe
+E:\CarControl\CarControl\bin\roslyn\vbc.exe.config
+E:\CarControl\CarControl\bin\roslyn\vbc.rsp
+E:\CarControl\CarControl\bin\roslyn\VBCSCompiler.exe
+E:\CarControl\CarControl\bin\roslyn\VBCSCompiler.exe.config
+E:\CarControl\CarControl\bin\Antlr3.Runtime.dll
+E:\CarControl\CarControl\bin\EntityFramework.dll
+E:\CarControl\CarControl\bin\EntityFramework.SqlServer.dll
+E:\CarControl\CarControl\bin\Microsoft.AspNet.Identity.Core.dll
+E:\CarControl\CarControl\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+E:\CarControl\CarControl\bin\Microsoft.AspNet.Identity.Owin.dll
+E:\CarControl\CarControl\bin\Microsoft.AspNet.TelemetryCorrelation.dll
+E:\CarControl\CarControl\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+E:\CarControl\CarControl\bin\Microsoft.Owin.dll
+E:\CarControl\CarControl\bin\Microsoft.Owin.Host.SystemWeb.dll
+E:\CarControl\CarControl\bin\Microsoft.Owin.Security.Cookies.dll
+E:\CarControl\CarControl\bin\Microsoft.Owin.Security.dll
+E:\CarControl\CarControl\bin\Microsoft.Owin.Security.Facebook.dll
+E:\CarControl\CarControl\bin\Microsoft.Owin.Security.Google.dll
+E:\CarControl\CarControl\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+E:\CarControl\CarControl\bin\Microsoft.Owin.Security.OAuth.dll
+E:\CarControl\CarControl\bin\Microsoft.Owin.Security.Twitter.dll
+E:\CarControl\CarControl\bin\Microsoft.Web.Infrastructure.dll
+E:\CarControl\CarControl\bin\Newtonsoft.Json.dll
+E:\CarControl\CarControl\bin\Owin.dll
+E:\CarControl\CarControl\bin\System.Diagnostics.DiagnosticSource.dll
+E:\CarControl\CarControl\bin\System.Net.Http.Formatting.dll
+E:\CarControl\CarControl\bin\System.Web.Helpers.dll
+E:\CarControl\CarControl\bin\System.Web.Http.dll
+E:\CarControl\CarControl\bin\System.Web.Http.WebHost.dll
+E:\CarControl\CarControl\bin\System.Web.Mvc.dll
+E:\CarControl\CarControl\bin\System.Web.Optimization.dll
+E:\CarControl\CarControl\bin\System.Web.Razor.dll
+E:\CarControl\CarControl\bin\System.Web.WebPages.Deployment.dll
+E:\CarControl\CarControl\bin\System.Web.WebPages.dll
+E:\CarControl\CarControl\bin\System.Web.WebPages.Razor.dll
+E:\CarControl\CarControl\bin\WebGrease.dll
+E:\CarControl\CarControl\bin\System.Web.Helpers.xml
+E:\CarControl\CarControl\bin\System.Web.Mvc.xml
+E:\CarControl\CarControl\bin\System.Web.Optimization.xml
+E:\CarControl\CarControl\bin\System.Web.Razor.xml
+E:\CarControl\CarControl\bin\System.Web.WebPages.xml
+E:\CarControl\CarControl\bin\System.Web.WebPages.Deployment.xml
+E:\CarControl\CarControl\bin\System.Web.WebPages.Razor.xml
+E:\CarControl\CarControl\bin\Newtonsoft.Json.xml
+E:\CarControl\CarControl\bin\Antlr3.Runtime.pdb
+E:\CarControl\CarControl\bin\System.Net.Http.Formatting.xml
+E:\CarControl\CarControl\bin\System.Web.Http.xml
+E:\CarControl\CarControl\bin\System.Web.Http.WebHost.xml
+E:\CarControl\CarControl\bin\EntityFramework.xml
+E:\CarControl\CarControl\bin\EntityFramework.SqlServer.xml
+E:\CarControl\CarControl\bin\Microsoft.AspNet.Identity.Core.xml
+E:\CarControl\CarControl\bin\Microsoft.AspNet.Identity.Owin.xml
+E:\CarControl\CarControl\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+E:\CarControl\CarControl\bin\Microsoft.Owin.xml
+E:\CarControl\CarControl\bin\Microsoft.Owin.Host.SystemWeb.xml
+E:\CarControl\CarControl\bin\Microsoft.Owin.Security.xml
+E:\CarControl\CarControl\bin\Microsoft.Owin.Security.Facebook.xml
+E:\CarControl\CarControl\bin\Microsoft.Owin.Security.Cookies.xml
+E:\CarControl\CarControl\bin\Microsoft.Owin.Security.Google.xml
+E:\CarControl\CarControl\bin\Microsoft.Owin.Security.Twitter.xml
+E:\CarControl\CarControl\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+E:\CarControl\CarControl\bin\Microsoft.Owin.Security.OAuth.xml
+E:\CarControl\CarControl\bin\System.Diagnostics.DiagnosticSource.xml
+E:\CarControl\CarControl\bin\Microsoft.AspNet.TelemetryCorrelation.xml
+E:\CarControl\CarControl\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+E:\CarControl\CarControl\bin\pt-br\System.Web.Helpers.resources.dll
+E:\CarControl\CarControl\bin\pt-br\System.Web.Mvc.resources.dll
+E:\CarControl\CarControl\bin\pt-br\System.Web.Optimization.resources.dll
+E:\CarControl\CarControl\bin\pt-br\System.Web.Razor.resources.dll
+E:\CarControl\CarControl\bin\pt-br\System.Web.WebPages.resources.dll
+E:\CarControl\CarControl\bin\pt-br\System.Web.WebPages.Deployment.resources.dll
+E:\CarControl\CarControl\bin\pt-br\System.Web.WebPages.Razor.resources.dll
+E:\CarControl\CarControl\bin\pt-br\System.Net.Http.Formatting.resources.dll
+E:\CarControl\CarControl\bin\pt-br\System.Web.Http.resources.dll
+E:\CarControl\CarControl\bin\pt-br\System.Web.Http.WebHost.resources.dll
+E:\CarControl\CarControl\bin\pt-br\Microsoft.AspNet.Identity.Core.resources.dll
+E:\CarControl\CarControl\bin\pt-br\Microsoft.AspNet.Identity.Owin.resources.dll
+E:\CarControl\CarControl\bin\pt-br\Microsoft.AspNet.Identity.EntityFramework.resources.dll
+E:\CarControl\CarControl\obj\Debug\CarControl.csprojAssemblyReference.cache
+E:\CarControl\CarControl\obj\Debug\CarControl.csproj.CopyComplete
+E:\CarControl\CarControl\obj\Debug\CarControl.dll
+E:\CarControl\CarControl\obj\Debug\CarControl.pdb

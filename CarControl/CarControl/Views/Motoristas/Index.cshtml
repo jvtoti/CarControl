@@ -1,0 +1,95 @@
+﻿@model IEnumerable<CarControl.Models.Motorista>
+
+@{
+    ViewBag.Title = "Index";
+}
+<h2></h2>
+<img src="https://i.ibb.co/2SyYh49/MOTORISTA.png" height="5%" width="5%"</img>
+
+<h2>Motoristas</h2>
+
+<p>
+    @Html.ActionLink("Registrar novo motorista", "Create")
+</p>
+<table class="table">
+    <tr>
+        <th>
+            @Html.DisplayNameFor(model => model.Id)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.Nome)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.Rg)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.Cnh)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.Cpf)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.CategoriaCnh)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.Status)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.Email)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.ValidadeCnh)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.DataNasc)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.SeguroDeVida)
+        </th>
+        <th></th>
+    </tr>
+
+@foreach (var item in Model) {
+<tr>
+    <td>
+        @Html.DisplayFor(modelItem => item.Id)
+    </td>
+    <td>
+        @Html.DisplayFor(modelItem => item.Nome)
+    </td>
+    <td>
+        @Html.DisplayFor(modelItem => item.Rg)
+    </td>
+    <td>
+        @Html.DisplayFor(modelItem => item.Cnh)
+    </td>
+    <td>
+        @Html.DisplayFor(modelItem => item.Cpf)
+    </td>
+    <td>
+        @Html.DisplayFor(modelItem => item.CategoriaCnh)
+    </td>
+    <td>
+        @Html.DisplayFor(modelItem => item.Status)
+    </td>
+    <td>
+        @Html.DisplayFor(modelItem => item.Email)
+    </td>
+    <td>
+        @Html.DisplayFor(modelItem => item.ValidadeCnh)
+    </td>
+    <td>
+        @Html.DisplayFor(modelItem => item.DataNasc)
+    </td>
+    <td>
+        @Html.DisplayFor(modelItem => item.SeguroDeVida)
+    </td>
+    <td>
+        @Html.ActionLink("Editar", "Edit", new { id = item.Id }) |
+        @Html.ActionLink("Detalhes", "Details", new { id = item.Id }) |
+        @Html.ActionLink("Excluir", "Delete", new { id = item.Id })
+    </td>
+</tr>
+}
+
+</table>

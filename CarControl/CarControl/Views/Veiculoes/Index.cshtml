@@ -1,0 +1,67 @@
+﻿@model IEnumerable<CarControl.Models.Veiculo>
+
+@{
+    ViewBag.Title = "Index";
+}
+
+<h2></h2>
+<img src="https://i.ibb.co/Dfn3D8P/carro-cadastro.png" height="10%" width="10%"</img>
+
+<h2>Veiculos</h2>
+
+<p>
+    @Html.ActionLink("Registrar novo Veiculo", "Create")
+</p>
+<table class="table">
+    <tr>
+        <th>
+            @Html.DisplayNameFor(model => model.id)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.id_Motorista)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.Placa)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.Modelo)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.Marca)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.VeiculoSegurado)
+        </th>
+        <th></th>
+    </tr>
+
+    @foreach (var item in Model)
+    {
+<tr>
+    <td>
+        @Html.DisplayFor(modelItem => item.id)
+    </td>
+    <td>
+        @Html.DisplayFor(modelItem => item.id_Motorista)
+    </td>
+    <td>
+        @Html.DisplayFor(modelItem => item.Placa)
+    </td>
+    <td>
+        @Html.DisplayFor(modelItem => item.Modelo)
+    </td>
+    <td>
+        @Html.DisplayFor(modelItem => item.Marca)
+    </td>
+    <td>
+        @Html.DisplayFor(modelItem => item.VeiculoSegurado)
+    </td>
+    <td>
+        @Html.ActionLink("Editar", "Edit", new { id = item.id }) |
+        @Html.ActionLink("Detalhes", "Details", new { id = item.id }) |
+        @Html.ActionLink("Excluir", "Delete", new { id = item.id })
+    </td>
+</tr>
+    }
+
+</table>
